@@ -1,10 +1,3 @@
-% Student Name:    Lorrenzo Francis
-% Student ID:      79085
-% Course:          Digital Communications
-% Course Code:     DCOM 3001
-% Submission Date: 14th March 2019
-
-
 clc;            % clear screen
 clear;          % clear memory
 close all;      % closes all other windows
